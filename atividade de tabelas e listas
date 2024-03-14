@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>aula 1</title>
+</head>
+<body>
+    <header><h1>HTML <sup>Linguagem de Marcação de Hipertexto</sup></h1>
+    <h2>Tutoriais pra iniciantes</h2></header>
+    <section><p><img align="left" src="https://th.bing.com/th/id/OIP.Xszf2S7YgMjptrkMjcYJGQHaIa?rs=1&pid=ImgDetMain" alt="html" width="100" hspace="50">
+        <ins><strong>HTML</strong></ins>(<em>Linguagem de Marcação de Hiper Texto</em>) é o bloco de construção mais cásico da web. <mark>Define o significado e a estrutura do conteúdo da web.</mark> Outras tecnologias além do HTML geralmente são usadas para desrever a aparência/apresentação (CSS) ou a funcionalidade/comportamento (<em>Java Script</em>) de uma página web.</p></section>
+
+    <section><table border="1">
+        <caption>Titulo da tabela</caption>
+        <thead>
+            <tr>
+                <th colspan="2"> Título da tabela </th>
+            </tr>
+            <tr>
+                <th>Tags</th>
+                <th>Significados</th>
+            </tr>
+        </thead>
+        <tbody>
+
+            <tr>
+                <td>HTML</td>
+                <td>Linguagem de marcação de texto</td>
+            </tr>
+            <tr>
+                <td>CSS</td>
+                <td>Folha de estilo em cascata</td>
+            </tr>
+            <tr>
+                <td>p</td>
+                <td>Define um parágrafo no documento</td>
+            </tr>
+            <tr>
+                <td>a</td>
+                <td>Tag de ancoragem, onde podemos inserir link em elementos de uma página HTML</td>
+
+            </tr>
+            <tr>
+                <td> img</td>
+                <td>adiciona uma imagem </td>
+            </tr>
+            <tr>
+                <td>mark</td>
+                <td>Marca o texto </td>
+            </tr>
+            <tr>
+                <td>sup</td>
+                <td>Coloca o texto elevado</td>
+            </tr>
+            <tr>
+                <td>em</td>
+                <td>Dá ênfase em uma frase ou palavra</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <th colspan="2">rodapé</th>
+            </tr>
+        </tfoot>
+    </table>
+    </section>
+    <section> <h3>Listas</h3>
+    <ol>
+        <li>Cafe
+            <ul>
+                <li>extra forte</li>
+                <li>normal</li>
+            </ul>
+        </li> 
+        <li>pao
+            <ul>
+                <li>doce</li>
+                <li>francês</li>
+            </ul>
+        </li>
+        <li>arroz</li>
+    </ol>
+    </section>
+</body>
+</html>
